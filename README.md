@@ -1,2 +1,2 @@
 # b-vue
-Bootstrap admin Template for Vue
+Bootstrap 4 admin Template for Vue 2
